@@ -21,8 +21,8 @@ android {
     buildToolsVersion '27.0.3'
 }
 
-allprojects{
-    repositories{
+allprojects {
+    repositories {
         jcenter()
         maven {
             url "https://jitpack.io"
